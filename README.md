@@ -2,6 +2,6 @@
 
 Model to classify yoga poses with DenseNet and Xception.
 
-#Dataset
+<h1>Dataset<h1/>
 
 Clean image dataset of 107 yogasanas.
